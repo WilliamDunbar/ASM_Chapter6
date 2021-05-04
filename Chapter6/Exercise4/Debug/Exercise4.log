@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Exercise3(Bai2va3).vcxproj, Exercise2and3.vcxproj, Exercise4.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Assembling Main.asm...
+Main.asm(1): error A2008: syntax error : ?
+Main.asm(2): error A2008: syntax error : ?
+Main.asm(3): error A2008: syntax error : ?
+Main.asm(4): error A2008: syntax error : ?
+Main.asm(26): error A2008: syntax error : ,
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml.exe /c /nologo /Sg /Zi /Fo"Debug\Main.obj" /Fl"Exercise3.lst" /I "c:\Irvine" /W3 /errorReport:prompt  /TaMain.asm" exited with code 1.
